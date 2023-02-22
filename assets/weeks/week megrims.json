@@ -1,0 +1,32 @@
+{
+	"storyName": "My suffering is all they know my friend",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "heh",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Megrims",
+			"oswald",
+			[
+				46,
+				0,
+				53
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Megrims",
+	"hiddenUntilUnlocked": false
+}
